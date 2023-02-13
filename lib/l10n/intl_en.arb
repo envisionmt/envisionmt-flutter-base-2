@@ -1,0 +1,5 @@
+{
+  "somethingWentWrong": "Opp! Something went wrong, please try again.",
+  "networkErrorMessage": "Connection error. Please check network and try again!",
+  "serviceLimitReached": "You’ve reached your selling limit, you can upgrade your plan to sell more."
+}

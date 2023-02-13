@@ -1,0 +1,7 @@
+class InComingSurveyEvent {
+
+}
+
+class UpdatedSurveyEvent {
+
+}
